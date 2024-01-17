@@ -1,5 +1,5 @@
-name: 'Get Version'
-description: 'Extracts the version from github.ref.'
+name: 'Extract Release Version'
+description: 'Extracts the version of the GitHub release from github.ref.'
 
 branding:
   icon: 'play'
